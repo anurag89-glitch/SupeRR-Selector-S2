@@ -1,0 +1,747 @@
+role,player_id,player_name,F_formats,n_formats_F,F_nonempty,M_role,M_all,sum_N_raw_F,sum_N_eff_del_F,Z_comp,Z_std,Reliability,ranking_eligible,final_rank,status,exclusion_detail,calibration_population
+batter,3374,Mark Chapman,T20I,1,True,24,24,429,399.7384923664,1.5480186610,2.1849807417,85.1698419935,True,1,RANKING_ELIGIBLE,,True
+batter,4369,Shai Hope,T20I,1,True,13,14,154,146.2047751043,1.4264533669,2.0010873278,83.2139925272,True,2,RANKING_ELIGIBLE,,True
+batter,6288,Shubman Gill,IPL,1,True,14,17,212,201.4310151840,1.3655960416,1.9090276542,82.1599514098,True,3,RANKING_ELIGIBLE,,True
+batter,37052,Naman Dhir,IPL,1,True,15,19,186,171.6076449446,1.3304305976,1.8558324262,81.5276309322,True,4,RANKING_ELIGIBLE,,True
+batter,2485,Babar Azam,T20I,1,True,13,13,157,143.9790691456,1.3146730358,1.8319957560,81.2387168837,True,5,RANKING_ELIGIBLE,,True
+batter,2930,Rassie van der Dussen,T20I,1,True,10,13,169,161.1457454967,1.1912699846,1.6453223430,78.8558440598,True,6,RANKING_ELIGIBLE,,True
+batter,1699,Suryakumar Yadav,"IPL,T20I",2,True,47,47,799,754.0701203600,1.1498883982,1.5827238748,78.0087971240,True,7,RANKING_ELIGIBLE,,True
+batter,2921,Fakhar Zaman,T20I,1,True,20,20,254,243.1406530857,1.1325605715,1.5565118443,77.6469496962,True,8,RANKING_ELIGIBLE,,True
+batter,4246,Nitish Rana,IPL,1,True,26,26,304,281.7426355400,1.1285850098,1.5504979601,77.5633348381,True,9,RANKING_ELIGIBLE,,True
+batter,6651,Towhid Hridoy,T20I,1,True,22,22,363,328.1814854339,0.9880464986,1.3379035121,74.4658300455,True,10,RANKING_ELIGIBLE,,True
+batter,2984,Sikandar Raza,T20I,1,True,29,36,483,451.7487779353,0.9849435260,1.3332096047,74.3943636377,True,11,RANKING_ELIGIBLE,,True
+batter,6396,Tim David,"IPL,T20I",2,True,56,56,643,604.9076347100,0.8579138245,1.1410501104,71.3580980916,True,12,RANKING_ELIGIBLE,,True
+batter,813,Jos Buttler,"IPL,T20I",2,True,28,28,389,361.6962827756,0.8549659657,1.1365908456,71.2851306817,True,13,RANKING_ELIGIBLE,,True
+batter,1107,Mohammad Nabi,T20I,1,True,35,39,466,451.7473070167,0.8413769590,1.1160345772,70.9473357825,True,14,RANKING_ELIGIBLE,,True
+batter,3024,Mohammad Rizwan,T20I,1,True,16,16,271,252.5457124339,0.8192656748,1.0825865477,70.3927130494,True,15,RANKING_ELIGIBLE,,True
+batter,6725,Sherfane Rutherford,"IPL,T20I",2,True,34,34,435,406.7159452166,0.7605433301,0.9937564873,68.8905030233,True,16,RANKING_ELIGIBLE,,True
+batter,6460,Ayush Badoni,IPL,1,True,35,35,573,544.4551804448,0.7570352530,0.9884497731,68.7994455049,True,17,RANKING_ELIGIBLE,,True
+batter,535,Ambati Rayudu,IPL,1,True,13,13,172,163.6482219587,0.7219690002,0.9354045929,67.8813326537,True,18,RANKING_ELIGIBLE,,True
+batter,3647,Shreyas Iyer,"IPL,T20I",2,True,24,24,437,420.1769726052,0.7022779134,0.9056176276,67.3595880252,True,19,RANKING_ELIGIBLE,,True
+batter,4391,Liam Livingstone,"IPL,T20I",2,True,33,33,491,455.5957395270,0.6882533260,0.8844024505,66.9853372613,True,20,RANKING_ELIGIBLE,,True
+batter,6423,Riyan Parag,IPL,1,True,33,35,462,436.7183264557,0.6865290017,0.8817940426,66.9391729985,True,21,RANKING_ELIGIBLE,,True
+batter,838,Glenn Maxwell,"IPL,T20I",2,True,30,30,359,336.9989445418,0.5707085352,0.7065909048,63.7671666884,True,22,RANKING_ELIGIBLE,,True
+batter,1077,David Miller,IPL,1,True,43,59,636,607.4643390665,0.5128790650,0.6191115072,62.1351640115,True,23,RANKING_ELIGIBLE,,True
+batter,152,Ravindra Jadeja,IPL,1,True,34,38,555,526.8096668693,0.4952046191,0.5923751413,61.6306444462,True,24,RANKING_ELIGIBLE,,True
+batter,20702,Tristan Stubbs,"IPL,T20I",2,True,44,44,637,600.1650430234,0.4719343387,0.5571738832,60.9625692081,True,25,RANKING_ELIGIBLE,,True
+batter,7260,Dhruv Jurel,IPL,1,True,29,30,371,348.3255250672,0.4490789111,0.5226001782,60.3023753695,True,26,RANKING_ELIGIBLE,,True
+batter,4812,Harry Tector,T20I,1,True,19,19,283,269.2581454877,0.4380534150,0.5059217659,59.9825340395,True,27,RANKING_ELIGIBLE,,True
+batter,88,Faf du Plessis,IPL,1,True,14,14,184,177.8070207755,0.4063359597,0.4579423554,59.0577655423,True,28,RANKING_ELIGIBLE,,True
+batter,4986,Rovman Powell,"IPL,T20I",2,True,70,70,1012,945.8884444692,0.4012672657,0.4502748757,58.9093664736,True,29,RANKING_ELIGIBLE,,True
+batter,2877,Vijay Shankar,IPL,1,True,19,19,211,191.1230408509,0.3870128110,0.4287119752,58.4911688629,True,30,RANKING_ELIGIBLE,,True
+batter,8221,Nitish Reddy,IPL,1,True,18,22,234,219.5004870789,0.3693879011,0.4020505430,57.9723986475,True,31,RANKING_ELIGIBLE,,True
+batter,2436,Dasun Shanaka,T20I,1,True,43,45,579,548.0851695504,0.3685006802,0.4007084323,57.9462366242,True,32,RANKING_ELIGIBLE,,True
+batter,3605,Aiden Markram,"IPL,T20I",2,True,35,35,463,426.5421216771,0.3631092808,0.3925527917,57.7871616558,True,33,RANKING_ELIGIBLE,,True
+batter,47,Virat Kohli,IPL,1,True,15,18,200,194.5888159632,0.3335269625,0.3478032311,56.9115317659,True,34,RANKING_ELIGIBLE,,True
+batter,6467,Anuj Rawat,IPL,1,True,11,11,136,127.3968456278,0.2998441551,0.2968508069,55.9092700870,True,35,RANKING_ELIGIBLE,,True
+batter,3916,Jitesh Sharma,IPL,1,True,34,40,408,386.5525872111,0.2758195341,0.2605084479,55.1913925692,True,36,RANKING_ELIGIBLE,,True
+batter,2756,Shashank Singh,IPL,1,True,26,26,348,327.9707013408,0.2730019204,0.2562462066,55.1070518537,True,37,RANKING_ELIGIBLE,,True
+batter,5882,Afif Hossain,T20I,1,True,11,11,198,186.7992894328,0.2600989601,0.2367277294,54.7204545152,True,38,RANKING_ELIGIBLE,,True
+batter,7897,Namboori Tilak Varma,"IPL,T20I",2,True,61,61,1081,1014.0688922957,0.2549671210,0.2289647293,54.5665337282,True,39,RANKING_ELIGIBLE,,True
+batter,4773,Jaker Ali Anik,T20I,1,True,22,22,387,370.6825241835,0.2493234434,0.2204274642,54.3971604960,True,40,RANKING_ELIGIBLE,,True
+batter,2639,Marcus Stoinis,"IPL,T20I",2,True,44,44,629,595.3470507346,0.2438397711,0.2121322412,54.2324916957,True,41,RANKING_ELIGIBLE,,True
+batter,1596,Moeen Ali,"IPL,T20I",2,True,30,30,439,407.4562064986,0.2380207996,0.2033298066,54.0576531104,True,42,RANKING_ELIGIBLE,,True
+batter,7094,Curtis Campher,T20I,1,True,27,27,319,296.7244016100,0.1906918563,0.1317346938,52.6322580456,True,43,RANKING_ELIGIBLE,,True
+batter,6448,Ibrahim Zadran,T20I,1,True,15,15,239,218.3613514015,0.1599436330,0.0852214534,51.7037691748,True,44,RANKING_ELIGIBLE,,True
+batter,198,Manish Pandey,IPL,1,True,13,13,176,162.1372998624,0.1561118272,0.0794250306,51.5879663847,True,45,RANKING_ELIGIBLE,,True
+batter,953,Lokesh Rahul,IPL,1,True,24,25,381,360.8008240516,0.1520096201,0.0732195681,51.4639727981,True,46,RANKING_ELIGIBLE,,True
+batter,2258,Sanju Samson,IPL,1,True,14,21,248,238.0054123939,0.1246900424,0.0318928849,50.6378230972,True,47,RANKING_ELIGIBLE,,True
+batter,5039,Rajat Patidar,IPL,1,True,20,20,255,238.0729514265,0.1229811538,0.0293078267,50.5861296840,True,48,RANKING_ELIGIBLE,,True
+batter,23450,Sai Sudharsan,IPL,1,True,18,18,256,237.8748964423,0.1132268744,0.0145524003,50.2910447194,True,49,RANKING_ELIGIBLE,,True
+batter,4853,Glenn Phillips,T20I,1,True,24,30,377,353.9909889482,0.1024282728,-0.0017827858,49.9643442903,True,50,RANKING_ELIGIBLE,,True
+batter,4755,Shivam Dube,"IPL,T20I",2,True,54,54,797,756.9005929548,0.0699111078,-0.0509719275,48.9807026879,True,51,RANKING_ELIGIBLE,,True
+batter,2463,Ryan Burl,T20I,1,True,31,31,515,481.9204422311,0.0654952023,-0.0576519257,48.8471658383,True,52,RANKING_ELIGIBLE,,True
+batter,4703,Rishabh Pant,IPL,1,True,23,28,337,314.4117980957,0.0640639444,-0.0598170082,48.8038880831,True,53,RANKING_ELIGIBLE,,True
+batter,6931,Pathum Nissanka,T20I,1,True,14,15,160,148.5601088589,0.0490860145,-0.0824743191,48.3511117475,True,54,RANKING_ELIGIBLE,,True
+batter,4708,Rinku Singh,"IPL,T20I",2,True,42,42,670,626.7651780830,0.0423297559,-0.0926946000,48.1469570888,True,55,RANKING_ELIGIBLE,,True
+batter,3125,Nicholas Pooran,"IPL,T20I",2,True,52,52,771,731.1636200543,0.0260942115,-0.1172543209,47.6566316229,True,56,RANKING_ELIGIBLE,,True
+batter,7544,Venkatesh Iyer,IPL,1,True,17,20,227,214.0335134050,-0.0190469279,-0.1855399140,46.2959997804,True,57,RANKING_ELIGIBLE,,True
+batter,6280,Harry Brook,T20I,1,True,16,19,154,144.2995306954,-0.0445734300,-0.2241541884,45.5288912184,True,58,RANKING_ELIGIBLE,,True
+batter,4117,Ishan Kishan,IPL,1,True,16,23,151,140.7999110927,-0.0514900042,-0.2346169809,45.3213875156,True,59,RANKING_ELIGIBLE,,True
+batter,1101,George Dockrell,T20I,1,True,31,31,364,345.4860349651,-0.0576559987,-0.2439443615,45.1365386617,True,60,RANKING_ELIGIBLE,,True
+batter,7059,Nehal Wadhera,IPL,1,True,22,22,323,305.6890442658,-0.0735719236,-0.2680205897,44.6600310469,True,61,RANKING_ELIGIBLE,,True
+batter,2490,Mohammad Nawaz,T20I,1,True,37,37,381,358.4854740725,-0.0879502695,-0.2897709020,44.2303965703,True,62,RANKING_ELIGIBLE,,True
+batter,3672,Kusal Mendis,T20I,1,True,12,12,111,107.6293570917,-0.0943935098,-0.2995176761,44.0381441845,True,63,RANKING_ELIGIBLE,,True
+batter,4814,Lorcan Tucker,T20I,1,True,17,17,156,147.1768117736,-0.1116229960,-0.3255809457,43.5249464175,True,64,RANKING_ELIGIBLE,,True
+batter,167,Ajinkya Rahane,IPL,1,True,14,14,119,116.2797798406,-0.1234175328,-0.3434226961,43.1744256271,True,65,RANKING_ELIGIBLE,,True
+batter,24017,Brian Bennett,T20I,1,True,11,11,92,86.0862697141,-0.1419180716,-0.3714087036,42.6259970752,True,66,RANKING_ELIGIBLE,,True
+batter,4867,Wesley Madhevere,T20I,1,True,11,11,152,141.7219310686,-0.1691186073,-0.4125553105,41.8229856877,True,67,RANKING_ELIGIBLE,,True
+batter,4260,Heinrich Klaasen,IPL,1,True,31,42,507,478.3918223104,-0.1724544676,-0.4176015101,41.7247934987,True,68,RANKING_ELIGIBLE,,True
+batter,3297,Shimron Hetmyer,"IPL,T20I",2,True,58,58,719,679.8884720301,-0.1749018620,-0.4213037157,41.6527952726,True,69,RANKING_ELIGIBLE,,True
+batter,4854,Rachin Ravindra,T20I,1,True,12,15,85,78.9668023057,-0.2049471106,-0.4667535570,40.7719030725,True,70,RANKING_ELIGIBLE,,True
+batter,4895,Charith Asalanka,T20I,1,True,26,26,277,268.0445257844,-0.2129377283,-0.4788410691,40.5385976042,True,71,RANKING_ELIGIBLE,,True
+batter,3648,Deepak Hooda,IPL,1,True,21,24,249,235.4421973098,-0.2519347593,-0.5378323891,39.4062836205,True,72,RANKING_ELIGIBLE,,True
+batter,4904,Kamindu Mendis,T20I,1,True,21,25,274,257.7170427064,-0.2703724997,-0.5657234006,38.8747827366,True,73,RANKING_ELIGIBLE,,True
+batter,3056,Iftikhar Ahmed,T20I,1,True,25,25,300,282.8170897847,-0.2757073672,-0.5737935247,38.7214816406,True,74,RANKING_ELIGIBLE,,True
+batter,3330,Hardik Pandya,"IPL,T20I",2,True,56,56,897,851.7616167592,-0.2768955743,-0.5755909410,38.6873679742,True,75,RANKING_ELIGIBLE,,True
+batter,6059,Ruturaj Gaikwad,IPL,1,True,11,13,195,185.8869324215,-0.2883564298,-0.5929279274,38.3588985819,True,76,RANKING_ELIGIBLE,,True
+batter,4101,Mitchell Santner,T20I,1,True,22,34,275,263.0731755059,-0.2887350698,-0.5935007011,38.3480646417,True,77,RANKING_ELIGIBLE,,True
+batter,3782,M Shahrukh Khan,IPL,1,True,30,30,299,283.3837713636,-0.3284886166,-0.6536364124,37.2172233811,True,78,RANKING_ELIGIBLE,,True
+batter,2876,Axar Patel,"IPL,T20I",2,True,66,66,854,805.3003925943,-0.3380806227,-0.6681463658,36.9463965526,True,79,RANKING_ELIGIBLE,,True
+batter,6676,Azmatullah Omarzai,T20I,1,True,29,36,380,364.3472515152,-0.4067018038,-0.7719505258,35.0336498792,True,80,RANKING_ELIGIBLE,,True
+batter,6726,Romario Shepherd,T20I,1,True,33,46,401,384.9121055170,-0.4135020230,-0.7822373065,34.8465789494,True,81,RANKING_ELIGIBLE,,True
+batter,4409,Sam Curran,"IPL,T20I",2,True,40,40,481,453.3535414359,-0.4265768685,-0.8020157966,34.4882091564,True,82,RANKING_ELIGIBLE,,True
+batter,4219,Krunal Pandya,IPL,1,True,35,35,363,337.2150789509,-0.4702210303,-0.8680368923,33.3048431309,True,83,RANKING_ELIGIBLE,,True
+batter,4823,Washington Sundar,IPL,1,True,20,30,264,250.9150875531,-0.4942869545,-0.9044417312,32.6610983790,True,84,RANKING_ELIGIBLE,,True
+batter,2533,Najibullah Zadran,T20I,1,True,16,16,197,189.5535907992,-0.5055955847,-0.9215484443,32.3608246786,True,85,RANKING_ELIGIBLE,,True
+batter,1318,Andre Russell,IPL,1,True,31,39,417,399.6508064651,-0.5296890054,-0.9579948776,31.7259260194,True,86,RANKING_ELIGIBLE,,True
+batter,4106,Daryl Mitchell,"IPL,T20I",2,True,34,34,452,419.3982333783,-0.5533882215,-0.9938449925,31.1079795582,True,87,RANKING_ELIGIBLE,,True
+batter,6281,Abhishek Sharma,IPL,1,True,10,14,78,74.4676715839,-0.5844233734,-1.0407922735,30.3088451234,True,88,RANKING_ELIGIBLE,,True
+batter,6433,Darwish Rasooli,T20I,1,True,10,10,120,113.8352081819,-0.6351395939,-1.1175113650,29.0283184973,True,89,RANKING_ELIGIBLE,,True
+batter,5939,Cameron Green,"IPL,T20I",2,True,23,23,285,273.0690258150,-0.7504881128,-1.2920005813,26.2386674580,True,90,RANKING_ELIGIBLE,,True
+batter,2687,Roston Chase,T20I,1,True,20,20,217,198.6997511367,-0.8446921017,-1.4345041901,24.0927112812,True,91,RANKING_ELIGIBLE,,True
+batter,6314,Devdutt Padikkal,IPL,1,True,15,15,174,164.7451002307,-0.8552537082,-1.4504808707,23.8597390820,True,92,RANKING_ELIGIBLE,,True
+batter,7472,Shahbaz Ahmed,IPL,1,True,23,23,314,299.2905678988,-0.8689182893,-1.4711514616,23.5606229693,True,93,RANKING_ELIGIBLE,,True
+batter,3489,Salman Agha,T20I,1,True,23,23,293,278.3347620221,-0.9143236112,-1.5398366872,22.5854413277,True,94,RANKING_ELIGIBLE,,True
+batter,1440,Rahul Tripathi,IPL,1,True,10,10,137,129.5986047856,-1.0814032830,-1.7925802966,19.2466218749,True,95,RANKING_ELIGIBLE,,True
+batter,25213,Dewald Brevis,IPL,1,True,12,19,89,86.2202337097,-1.1084288372,-1.8334622067,18.7434090293,True,96,RANKING_ELIGIBLE,,True
+batter,19714,Abishek Porel,IPL,1,True,12,12,140,129.9053623199,-1.1147780520,-1.8430667471,18.6266662964,True,97,RANKING_ELIGIBLE,,True
+batter,49003,Hasan Nawaz,T20I,1,True,10,10,82,79.6435527247,-1.2321241146,-2.0205776740,16.5693362521,True,98,RANKING_ELIGIBLE,,True
+batter,818,Mitchell Marsh,IPL,1,True,10,14,105,100.4386212775,-1.2462059004,-2.0418793760,16.3350981825,True,99,RANKING_ELIGIBLE,,True
+batter,4926,Shadab Khan,T20I,1,True,18,18,140,132.3947275904,-1.3940932352,-2.2655904856,14.0339580628,True,100,RANKING_ELIGIBLE,,True
+batter,6512,Michael Bracewell,T20I,1,True,17,19,151,146.6229742600,-1.7961987526,-2.8738607723,9.1198469426,True,101,RANKING_ELIGIBLE,,True
+batter,8,Mahendra Singh Dhoni,,0,False,0,33,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,23,Piyush Chawla,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28,Ishant Sharma,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,109,Wriddhiman Saha,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,126,Rohit Sharma,,0,False,0,11,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,142,Shikhar Dhawan,IPL,1,True,7,7,140,127.7191060578,0.7168118544,0.9276033107,67.7451106165,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,143,Dinesh Karthik,,0,False,0,38,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,147,Pradeep Sangwan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,158,Amit Mishra,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,161,Dwayne Bravo,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,169,Robin Uthappa,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,220,David Warner,IPL,1,True,7,9,133,124.0712251385,-0.3951564266,-0.7544856824,35.3523120813,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,223,Steven Smith,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,232,Tom Cooper,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,250,Aaron Finch,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,274,Martin Guptill,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,278,Tim Southee,,0,False,0,13,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,286,Kane Richardson,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,295,Wayne Parnell,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,305,Ravichandran Ashwin,,0,False,0,25,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,332,Angelo Mathews,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,344,Sheldon Jackson,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,360,Bhuvneshwar Kumar,,0,False,0,28,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,395,Karn Sharma,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,403,Umesh Yadav,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,418,Richard Berrington,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,443,Paul Stirling,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,470,Mohammad Amir,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,478,Eoin Morgan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,479,Adil Rashid,,0,False,0,19,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,492,Andre Fletcher,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,494,Kieron Pollard,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,499,Shakib Al Hasan,T20I,1,True,5,5,124,116.0126434911,-0.0276805767,-0.1986001478,46.0363314095,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,505,Mushfiqur Rahim,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,507,Mohammad Mahmudullah,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,722,Liam Dawson,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,728,Dawid Malan,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,757,Sybrand Engelbrecht,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,768,Reeza Hendricks,T20I,1,True,9,9,207,186.3812105084,0.8961277858,1.1988568705,72.2938668911,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,772,Rilee Rossouw,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,773,Shadley Van Schalkwyk,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,778,Darren Bravo,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,781,Sunil Narine,,0,False,0,16,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,786,Chris Jordan,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,796,Matthew Wade,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,829,Mitchell Starc,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,830,Josh Hazlewood,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,914,Krishnappa Gowtham,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,930,Karun Nair,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,988,Graeme Cremer,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,992,Mayank Agarwal,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1039,Mandeep Singh,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1040,Harpreet Bhatia,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1045,David Wiese,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1071,Jaydev Unadkat,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1100,Dinesh Chandimal,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1116,Craig Ervine,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1159,Tendai Chatara,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1171,Chris Woakes,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1183,Alex Hales,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1187,Jason Roy,,0,False,0,5,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1205,Jonny Bairstow,,0,False,0,9,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1210,James Vince,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1219,David Willey,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1327,Johnson Charles,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1389,Sean Abbott,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1481,Kusal Perera,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1487,Adam Milne,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1541,Sean Williams,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1566,Mohammed Shami,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1568,Kane Williamson,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1612,Yuzvendra Chahal,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1617,Rishi Dhawan,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1649,Regis Chakabva,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1701,Swapnil Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1758,Patrick Cummins,,0,False,0,27,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1791,Wesley Barresi,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1801,Nitish Kumar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1810,Devon Thomas,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1813,Deepak Chahar,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1924,Sam Billings,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,1941,Devon Conway,,0,False,0,9,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,1944,Keshav Maharaj,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2003,Bhanuka Rajapaksa,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2054,Jason Behrendorff,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2101,Quinton de Kock,IPL,1,True,9,15,116,109.2187229004,-0.5390291079,-0.9721237731,31.4816012014,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,2213,Soumya Sarkar,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2214,Gulbadin Naib,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2218,Anamul Haque,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2246,Tom Latham,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2261,Harshal Patel,,0,False,0,23,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2296,Safyaan Sharif,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2304,Tymal Mills,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2315,Reece Topley,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2320,Trent Boult,,0,False,0,19,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2334,Dwaine Pretorius,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2351,Danushka Gunathilaka,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2364,Ashton Agar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2367,Travis Head,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2373,Ashton Turner,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2379,Ben Duckett,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2382,Jamie Overton,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2399,Dushmantha Chameera,,0,False,0,28,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2407,Dhananjaya de Silva,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2411,Sandeep Sharma,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2416,Kyle Mayers,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2417,Akeal Hosein,,0,False,0,25,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2418,Justin Greaves,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2439,Akila Dananjaya,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2483,Lizaad Williams,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2523,Will Young,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2526,Ish Sodhi,,0,False,0,20,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2534,Rahmat Shah,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2573,Evin Lewis,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2633,Jason Holder,,0,False,0,43,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2636,Adam Zampa,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2650,Raymon Reifer,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2661,Shamarh Brooks,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,2671,Liton Das,T20I,1,True,9,9,126,118.9053999008,1.3444648142,1.8770621696,81.7820399516,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,2680,Nurul Hasan,,0,False,0,19,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2681,Taskin Ahmed,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2750,Alex Carey,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2790,Praveen Dubey,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2847,Shardul Thakur,,0,False,0,24,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2852,Jagadeesha Suchith,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2878,Mohit Sharma,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2887,Harmeet Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2892,Asif Ali,,0,False,0,13,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2933,Jasprit Bumrah,,0,False,0,13,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2972,Yasim Murtaza,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2985,Mark Wood,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2996,Stephanus Myburgh,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,2997,Paul van Meekeren,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3033,Usman Qadir,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3038,Hussain Talat,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3040,Kashif Daud,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3077,Usama Mir,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3091,Sahibzada Farhan,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,3097,Shan Masood,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3135,Yannic Cariah,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3174,Matt Henry,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3260,Hashmatullah Shahidi,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3272,Fabian Allen,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3275,Alzarri Joseph,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3276,Gudakesh Motie,,0,False,0,19,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3280,Nazmul Hossain Shanto,T20I,1,True,8,8,104,99.0992477527,-0.3219133026,-0.6436898488,37.4033408847,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,3281,Mosaddek Hossain,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3282,Mehidy Hasan Miraz,T20I,1,True,9,9,121,114.5383500611,-0.2563806500,-0.5445577462,39.2778880941,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,3298,Jofra Archer,,0,False,0,20,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3306,Afsar Zazai,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3323,Jimmy Neesham,,0,False,0,27,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3361,Michael Leask,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3373,Aizaz Khan,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3377,Babar Hayat,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3382,Nizakat Khan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3383,Kinchit Shah,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3415,Matthew Cross,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3451,Baba Indrajith,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3469,Shreyas Gopal,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3539,Ben McDermott,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3543,Shahidullah Kamal,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3544,Usman Ghani,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3550,Sharafuddin Ashraf,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3578,Imad Wasim,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3595,Andy McBrine,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3613,Shakeel Ahmed,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3622,Hayden Walsh,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3623,Hasan Ali,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3627,Andile Phehlukwayo,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3628,Kagiso Rabada,,0,False,0,21,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3629,Corbin Bosch,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3635,Jason Smith,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3639,Brandon King,T20I,1,True,8,8,96,92.4191817265,-0.5016068760,-0.9155146724,32.4665711415,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,3641,Ben Dwarshuis,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3644,Kuldeep Yadav,,0,False,0,34,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3645,Sarfaraz Khan,IPL,1,True,7,7,101,96.0101637071,-0.5060411765,-0.9222224969,32.3490225498,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,3651,Ricky Bhui,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3653,Avesh Khan,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3660,Luke Wood,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3664,Binura Fernando,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3669,Sadeera Samarawickrama,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,3673,Ramesh Mendis,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3683,Gavin Main,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3686,CB Sole,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3689,Mark Watt,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3697,Kyle Jamieson,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3700,Tim Seifert,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,3720,Craig Young,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3727,Matthew Short,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,3771,Vivian Kingma,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3772,Logan van Beek,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3775,Sompal Kami,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3802,Anshuman Rath,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3839,Amjad Mahboob,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3871,Aamir Kaleem,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3926,Rahul Tewatia,,0,False,0,45,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3954,Andrew Balbirnie,T20I,1,True,4,4,91,85.7801240628,1.0850082678,1.4845788512,76.6322847605,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,3967,Tom Kohler,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3986,Matthew Renshaw,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,3995,Donald Tiripano,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4007,Ryan Rickelton,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4102,George Munsey,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4111,Khushdil Shah,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4201,Fareed Malik,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4211,Vishnu Vinod,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4221,Chris Green,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4229,George Linde,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4237,Tabraiz Shamsi,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4265,T Natarajan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4373,Mustafizur Rahman,,0,False,0,13,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4412,Max ODowd,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4417,Karan KC,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4438,Jasdeep Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4460,Jeffrey Vandersay,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4487,Vyshak Kumar,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4489,Prasidh Krishna,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4494,Abhinav Manohar,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4499,Saqib Mahmood,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4505,Jhye Richardson,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4604,Mitchell Swepson,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4636,Bjorn Fortuin,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4639,Wellington Masakadza,,0,False,0,20,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4641,Lungi Ngidi,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4658,Nasum Ahmed,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4662,Cole McConchie,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4684,Dane Cleaver,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4686,Joshua Clarkson,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4692,Lockie Ferguson,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4695,Nick Kelly,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4716,Mayank Dagar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4722,Rashid Khan,,0,False,0,58,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4736,Josh Inglis,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4779,Pieter Willem Mulder,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4780,Mohammad Saif Hassan,,0,False,0,5,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4790,Lutho Sipamla,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4793,Dean Foxcroft,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4802,Stephen Doheny,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4807,Joshua Little,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4815,Benjamin White,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4816,Khaleel Ahmed,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4821,Mahipal Lomror,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4826,George Garton,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4830,Keacy Carty,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4837,Obed McCoy,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4838,Keemo Paul,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4840,Odean Smith,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4842,Shamar Springer,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4847,Finn Allen,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,4856,Benjamin Sears,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4871,Brandon Mavuta,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4874,Richard Ngarava,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4876,Milton Shumba,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4880,Aarif Sheikh,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4881,Dipendra Airee,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4882,Kushal Bhurtel,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4900,Wanindu Hasaranga,,0,False,0,48,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4901,Asitha Fernando,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4902,Avishka Fernando,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4947,Kasun Rajitha,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,4983,Sikander Zulfiqar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5029,Prerak Mankad,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5034,Murugan Ashwin,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5041,Mukesh Kumar,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5189,Faheem Ashraf,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5379,Mark Adair,,0,False,0,24,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5441,Barry McCarthy,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5547,Nosthush Kenjige,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5553,Phil Salt,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,5561,Brad Wheal,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5562,Richard Gleeson,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5577,Sai Kishore,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5608,Narayan Jagadeesan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5665,Sanjay Yadav,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5738,Xavier Bartlett,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5750,Ehsan Khan,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5808,Karim Janat,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5809,Naveen ul Haq,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5837,Mahedi Hasan,,0,False,0,18,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5839,Yasir Ali Chowdhury,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5866,Patrick Kruger,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5892,Blair Tickner,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5928,Prithvi Shaw,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,5940,Riley Meredith,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5944,Mohammed Siraj,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5977,Khary Pierre,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,5979,Abrar Ahmed,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6025,Henry Shipley,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6097,Brydon Carse,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6160,Chamika Karunaratne,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6161,Rahul Chahar,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6166,Jack Edwards,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6203,Surendran Chandramohan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6256,Varun Chakravarthy,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6272,William Jacks,,0,False,0,14,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,6273,Tom Banton,T20I,1,True,5,5,77,72.2179475844,0.9285462044,1.2478966372,73.0727613049,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,6284,Anukul Roy,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6286,Shivam Mavi,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6297,Matthew Parkinson,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6342,Matthew Breetzke,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6350,Matthew Kuhnemann,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6354,Spencer Johnson,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6355,Shaheen Afridi,,0,False,0,24,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6389,Tanvir Islam,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6395,Josh Philippe,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6398,Aaron Hardie,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6436,Qais Ahmad,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6450,Mujeeb Ur Rahman,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6457,Urvil Patel,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6464,Arshdeep Singh,,0,False,0,29,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6466,Atharwa Taide,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,6473,Nuwanidu Fernando,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6487,Priyam Garg,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6489,Darshan Nalkande,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6494,Manoj Bhandage,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6503,Zahoor Khan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6506,Mohammad Imran Randhawa,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6514,Anil Nidamanuru,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6515,Benjamin Lister,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6518,Daniel Sams,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6523,Blessing Muzarabani,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6526,Himmat Singh,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6574,Alick Athanaze,,0,False,0,2,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,6591,KM Asif,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6628,Gerald Coetzee,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6643,Hasan Mahmud,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6645,Mohammad Sheikh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6664,Dion Myers,T20I,1,True,7,7,138,128.1485730785,0.7184834671,0.9301319812,67.7892981449,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,6669,Mohsin Khan,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6671,Lalit Yadav,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6674,Rahmanullah Gurbaz,T20I,1,True,7,10,82,78.8502398246,0.2302011420,0.1915009081,53.8225446772,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,6677,Mohammad Hasnain,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6683,Mayank Markande,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6697,Shams Mulani,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6705,Scott McKechnie,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6739,Amir Jangoo,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6772,Chetan Sakariya,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6783,Azam Khan,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6795,Terrance Hinds,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6797,Dominic Drakes,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6806,Tushar Deshpande,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6819,Yashasvi Jaiswal,,0,False,0,9,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,6881,Scott Edwards,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6919,Tyrone Kane,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6922,Abdul Samad,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6932,Pramod Madushan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6985,Bas de Leede,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,6995,Saad Zafar,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7001,Dilon Heyliger,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7002,Nicholas Kirton,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7008,Gus Atkinson,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7044,Jamie Smith,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7049,Kamil Mishara,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7052,Dunith Wellalage,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7060,Arjun Tendulkar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7120,Rohit Paudel,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7140,Senuran Muthusamy,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7152,Hazratullah Zazai,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7155,Sahan Arachchige,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7201,Haroon Arshad,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7216,Prabhsimran Singh,,0,False,0,5,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7227,Nijat Masood,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7240,FazalHaq Farooqi,,0,False,0,11,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7250,Mukesh Choudhary,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7270,Anrich Nortje,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7304,Sanvir Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7312,Nandre Burger,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7322,Yash Dayal,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7325,Harpreet Brar,,0,False,0,18,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7327,Rasikh Salam,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7338,Haider Ali,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7341,Jake McGurk,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7344,Shoriful Islam,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7355,Tayyab Tahir,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7364,Haris Rauf,,0,False,0,23,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7406,Rizwan CP,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7409,Sundeep Jora,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7446,Abdul Samad,,0,False,0,31,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7473,Akash Deep,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7503,Ravi Bishnoi,,0,False,0,22,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7533,Simarjeet Singh,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7545,Kuldeep Sen,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7574,Kumar Kartikeya Singh,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7625,Suryansh Shedge,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7634,Aaron Jones,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7689,Dilshan Madushanka,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7690,Saim Ayub,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7692,Qasim Akram,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7696,Mohammad Wasim,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7699,Abbas Afridi,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7702,Chamindu Wickramasinghe,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7704,Pavan Rathnayake,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7709,Ainsley Ndlovu,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7710,Brandon Glover,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7741,Gareth Delany,,0,False,0,23,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7755,Harsh Thaker,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7756,Kaleem Sana,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7761,Ravinderpal Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7808,Marco Jansen,,0,False,0,26,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7894,Tony Munyonga,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7900,Tanzid Hasan,,0,False,0,5,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7901,Parvez Emon,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,7903,Shamim Hossain,,0,False,0,25,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7905,Tanzim Sakib,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7912,Vikramjit Singh,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7914,Clayton Floyd,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7920,Nathan Ellis,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7924,Kushal Malla,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7926,Manpreet Singh,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7927,Janak Prakash,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7928,Vinoth Baskaran,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7929,Aryaman Sunil Uchil,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7935,Mohammad Ghazanfar,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7967,Noor Ahmad,,0,False,0,24,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,7978,Johnathan Campbell,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8005,Zawar Farid,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8009,Junaid Siddique,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8014,Avi Dixit,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8040,Ripal Patel,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8049,Naseem Shah,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8085,Suyash Prabhudessai,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8101,Ashutosh Sharma,,0,False,0,22,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8141,Auqib Nabi,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8177,Akash Madhwal,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8182,Donovan Ferreira,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8238,Sameer Rizvi,IPL,1,True,9,9,141,133.3159335923,0.3719861403,0.4059809334,58.0489886962,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,8241,Lokesh Bam,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8251,Kumar Kushagra,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8266,Sumit Kumar 1,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8295,Matthew Forde,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8298,Ramon Simmonds,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8301,Asif Khan,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8311,Dan Mousley,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8326,Jayden Seales,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8380,Mohammad Rishad Hossain,,0,False,0,26,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8408,Shreyas Movva,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8424,Tanveer Sangha,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8530,Kartik Tyagi,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8580,Yudhvir Singh,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8600,Tadiwanashe Marumani,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,8623,Kristian Clarke,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8634,Ashwani Kumar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8637,Vriitya Aravind,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8638,Basil Hameed,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8639,Kartik Meiyappan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8647,Sediqullah Atal,T20I,1,True,7,8,87,84.8222253382,-0.0200426688,-0.1870461843,46.2660410387,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,8652,Mohammad Ishaq,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8654,Cooper Connolly,IPL,1,True,3,6,78,69.7116732780,1.3141180355,1.8311561997,81.2284779081,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,8661,Matheesha Pathirana,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8664,Victor Nyauchi,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8723,Mohammed Faraazuddin,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8726,Alishan Sharafu,T20I,1,True,5,5,76,70.9332281936,0.0250791137,-0.1187898725,47.6259889337,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,8727,Sanchit Sharma,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8739,Muhammad Irfan,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8741,Mohammad Haris,,0,False,0,7,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,8746,Vaibhav Arora,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8771,Rubin Hermann,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,8805,Ottneil Baartman,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15269,Mohammed Aslam,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15271,Usmangani Ibrahim Patel,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15279,Shiraz Khan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15280,Sayed Monib,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15303,Bilal Tahir,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15551,Ackeem Auguste,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,15629,Shayan Jahangir,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,16498,Sultan Ahmad,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,16559,Alexander Patmore,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,17413,Neil Rock,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,17419,Tim Tector,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,17424,Graham Hume,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,17432,Ross Adair,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,17911,Nangeyalia Kharote,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19012,Zeeshan Ali,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19020,Ateeq Iqbal,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19125,Ayush Shukla,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19145,Aamer Jamal,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19147,Faraz Akram,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19307,Tharindu Rathnayake,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19309,Lahiru Udara,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19312,Nuwan Thushara,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19315,Vijayakanth Viyaskanth,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19316,Maheesh Theekshana,,0,False,0,33,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19530,Shahnawaz Dhani,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19781,Mitchell Owen,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19894,Mitchell Hay,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,19902,Tim Pringle,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20005,Arshad Khan,,0,False,0,12,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20006,Ramandeep Singh,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20163,Aasif Sheikh,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20175,Nandan Yadav,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20229,Mohammad Ali,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20310,Ahmed Daniyal,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20316,Shahab Alam,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20327,Usman Khan,T20I,1,True,9,9,106,104.1816098606,-0.0255877465,-0.1954342962,46.0992568247,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,20704,Salman Mirza,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20802,Abdul Basith,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,20894,Aman Khan,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,21777,Tafadzwa Tsiga,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,21780,Ernest Masuku,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,21781,Clive Madande,,0,False,0,20,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,21784,Brad Evans,,0,False,0,15,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,21790,Tashinga Musekiwa,,0,False,0,17,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22134,Luke Jongwe,,0,False,0,16,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22137,Fionn Hand,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22187,Ryan Klein,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22188,Aryan Dutt,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22471,Matthew Humphreys,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,22565,Muhammad Waseem,,0,False,0,5,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,22920,Jacob Duffy,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,23311,Jacob Bethell,T20I,1,True,8,8,84,79.6759628184,0.3325515574,0.3463277230,56.8825831157,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,24346,Mohamed Shafeeq,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24381,Shariz Ahmad,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24475,Rehan Ahmed,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24767,Ripon Mondol,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24779,Ijaz Ahmadzai,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24803,Gulshan Jha,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24812,Chris Greaves,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24887,Innocent Kaia,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,24978,Jack Jarvis,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,24982,Charlie Tear,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25011,Liam Mccarthy,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25030,Zaman Khan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25048,Umran Malik,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25128,Nqabayomzi Peter,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25132,Praful Hinge,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25138,Harsh Dubey,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25139,Shubham Dubey,,0,False,0,14,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25216,Andile Simelane,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25231,Samay Shrivastava,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25507,Edson Silva,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25534,Chad Bowes,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25679,Salil Arora,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,25809,Juanoy Drysdale,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26519,Janith Liyanage,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26646,Rahul Chopra,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26663,Kwena Maphaka,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26830,Nishant Kumar Sindhu,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26834,Raj Bawa,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26839,Haseebullah Khan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26906,Angkrish Raghuvanshi,IPL,1,True,8,8,75,67.3898987083,-0.7964803289,-1.3615736095,25.1757860374,False,,M_BREADTH_INSUFFICIENT,M_role<10,True
+batter,26909,Yash Dhull,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26916,Yasir Mohammad,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,26988,Jitenkumar Ramanandi,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27004,Hassnain Shah,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27071,Vinayak Shukla,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27137,Hammad Mirza,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27364,Simranjeet Kang,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27380,Harshit Kaushik,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27390,Matiullah Khan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27460,Ali Naseer,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27464,Aayan Afzal Khan,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27466,Dhruv Parashar,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27469,Aryansh Sharma,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27504,Dushan Hemantha,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27516,Ihsanullah Ihsanullah,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27743,DT Doram,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27959,Hrithik Shokeen,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27960,Mayank Yadav,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27962,Saurav Chauhan,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,27964,Anshul Kamboj,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28018,Ashok Sharma,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28021,Saurabh Dubey,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28185,Kamil Pooran,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28655,Muhammad Rohid,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28756,Haider Ali,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28908,Vincent Masekesa,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28915,Trevor Gwandu,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,28967,Tim Robinson,,0,False,0,3,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,28970,Connor Esterhuizen,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,29066,Zakary Foulkes,,0,False,0,9,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,29075,Aadil Ansari,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,29080,Muhammad Khan,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,29558,Muhammad Arfan,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,29833,Bashir Ahmad,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,29888,Harshit Rana,,0,False,0,13,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,30925,Bradley Currie,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,31107,Yasin Patel,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,31513,Ethan Dsouza,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,31529,Robin Minz,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,31835,Akshay Roopak Puri,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,31836,Aman Desai,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,32401,Akhil Kumar,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,32862,Allah Ghazanfar,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,33440,Adwitya Bhargava,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,33969,Tinotenda Maposa,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34466,Arafat Minhas,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34485,Sufiyan Muqeem,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34522,Brandon McMullen,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34527,Jasper John Davidson,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34546,Aryan Bisht,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,34969,Manav Suthar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,35102,Zikria Islam,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,35122,Shah Faisal,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,35318,Sakib Hussain,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,35506,Quentin Sampson,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,36551,Zishan Motara,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,36553,Jediah Blades,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,36983,Mohit Rathee,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,37201,Jewel Andrew,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,37731,Musheer Khan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,37939,Nahid Rana,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,38855,Mohammad Saifuddin,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,39374,Muhammad Zohaib,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,39640,Sineth Jayawardena,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,39657,Eshan Malinga,,0,False,0,10,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,39991,Parveen Kumar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,41110,Mayank Kumar,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,42548,Muhammad Jawadullah,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,42810,Noah Croes,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,43250,Dilpreet Singh Bajwa,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,43798,Lhuan Pretorius,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,43917,Krish Bhagat,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,45381,PV Satyanarayan Raju,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,45457,Zach Lion Cachet,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,45749,Mukul Choudhary,,0,False,0,8,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,45966,Prashant Veer,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,46066,Vipraj Nigam,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,46137,Kartik Sharma,,0,False,0,6,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,46378,Kyle Klein,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,46929,Dian Forrester,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,47050,Shamar Joseph,,0,False,0,6,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,47314,Wafiullah Tarakhil,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,47370,Aniket Verma,,0,False,0,8,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,47371,Zuhaid Zubair,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,47403,Newman Nyamhuri,,0,False,0,5,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,47724,Jahandad Khan,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,48504,Ayush Mhatre,,0,False,0,1,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,48616,Abdul Saqlain,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,49027,Bevon Jacobs,,0,False,0,4,0,0.0000000000,,,,False,,INSUFFICIENT_SAMPLE,format gate / denominator / composite failed,False
+batter,49268,Sohaib Khan,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,50062,Nqobani Mokoena,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,54404,Benjamin Ito,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,55747,Benjamin Calitz,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,56685,Abdullah Ahmadzai,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,56817,Shivang Kumar,,0,False,0,4,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,56830,Madhav Tiwari,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,57747,Charlie Cassell,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,58134,Digvesh Rathi,,0,False,0,3,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,58135,Tejasvi Dahiya,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,58246,Prince Yadav,,0,False,0,7,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,59045,Jai Moondra,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,60609,Navin Bidaisee,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,64604,Kalhan Challu,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,66103,Noor Rahman,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,67036,Brijesh Sharma,,0,False,0,2,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False
+batter,71727,Razaullah Razaullah,,0,False,0,1,0,0.0000000000,,,,False,,BASELINE_INSUFFICIENT,baseline_insufficient,False

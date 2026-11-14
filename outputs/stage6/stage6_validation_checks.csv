@@ -1,0 +1,24 @@
+area,check,passed,detail
+Scenario registry,"All required mandatory, supplementary and blocked scenarios are registered",True,missing=[] extra=[]
+Scenario parameters,Every executed sensitivity uses its registered approved parameter value,True,31 scenario parameter maps checked
+Scenario registry,Optional capped N_eff and unregistered baseline-exposure scenarios are not executed,True,"OPTIONAL_NEFF_CAPPED: OPTIONAL_NOT_RUN, BASELINE_EXPOSURE_ALT: BLOCKED_NOT_APPROVED"
+Primary reproduction,Batter primary eligible set and ranks reproduce Stage 5 exactly,True,n=101/101; ids_equal=True; ranks_equal=True
+Primary reproduction,"Batter primary Z_comp, Reliability and M_role reproduce Stage 5",True,max_Z_diff=4.992e-11; max_Rel_diff=4.931e-11; M_equal=True
+Primary reproduction,Batter primary top-10 matches the Stage 5 top-10 CSV,True,"top10=[3374, 4369, 6288, 37052, 2485, 2930, 1699, 2921, 4246, 6651]"
+Primary reproduction,Bowler primary eligible set and ranks reproduce Stage 5 exactly,True,n=141/141; ids_equal=True; ranks_equal=True
+Primary reproduction,"Bowler primary Z_comp, Reliability and M_role reproduce Stage 5",True,max_Z_diff=4.988e-11; max_Rel_diff=4.999e-11; M_equal=True
+Primary reproduction,Bowler primary top-10 matches the Stage 5 top-10 CSV,True,"top10=[4658, 4840, 7364, 7690, 781, 7699, 1596, 7503, 6643, 8661]"
+Primary reproduction,Batter format records reproduce Stage 5 (max abs diff < 1e-08),True,"records=907; merge={'both': 907, 'left_only': 0, 'right_only': 0}; worst_diff=4.999e-11"
+Primary reproduction,Bowler format records reproduce Stage 5 (max abs diff < 1e-08),True,"records=628; merge={'both': 628, 'left_only': 0, 'right_only': 0}; worst_diff=5.000e-11"
+Input integrity,"Raw datasets, approved pressure features and Stage 5 outputs are unchanged",True,changed=[]; added=[]
+Output files,"All seven required Stage 6 CSVs exist, are readable and contain data",True,7 required CSVs checked
+Ranking validity,No duplicate player-role-scenario rows; eligible scores finite and ranks contiguous,True,all scenario ranking tables checked
+Eligibility thresholds,"Primary N_raw>=75, N_eff>=35, baseline>=120 and M_role>=10 gates are unchanged",True,all four primary gates verified
+Eligibility thresholds,Each scenario applies its declared M_role / M_all eligibility rule,True,all scenario eligibility rules verified
+Sensitivity moments,Definition B and runs-proxy use the published alternative moments and leave bowler scores unchanged,True,2 metric-definition sensitivities and 4 alternative format-metric moments verified
+Top-10 stability,"Top-10 overlap, Jaccard, Spearman, Kendall and entrant/leaver lists recompute exactly from CSVs",True,all completed scenarios independently recomputed
+Eligibility sensitivity,"Eligible counts, newly eligible players and no-longer-eligible players recompute from CSVs",True,all eligibility comparisons verified
+Completeness,Every registered scenario has exactly one summary row and the declared status,True,missing=[]; status_mismatch=[]
+Completeness,All mandatory approved scenarios are completed; blocked scenarios are explicitly labelled,True,all mandatory scenarios completed
+Scenario diagnostics,"Corpus sizes, boundary treatments, other-as-legal and Match 48610 fallback signatures match the approved rules",True,all scenario signatures verified
+Report,Report mentions every registered scenario and both primary top-10 lists,True,"missing_scenarios=[]; missing_top_ids={'batter': [], 'bowler': []}"

@@ -1,0 +1,4 @@
+# Additional dependency for the Stage 1-6 pipeline and its tests.
+# The dashboard itself only needs requirements.txt.
+-r requirements.txt
+scipy==1.18.1
